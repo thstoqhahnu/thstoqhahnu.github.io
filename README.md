@@ -3,9 +3,6 @@
 
 이 프로젝트는 개인 포트폴리오를 위한 웹사이트를 만들기 위해 작성되었습니다. 이 포트폴리오 사이트는 개인 정보, 희망 직무 분야, 기술 스택, 프로젝트 등을 포함하며, GitHub Pages를 통해 호스팅 됩니다.
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
-
-## Getting Started
 ## 목차
 - [소개](#소개)
 - [기능](#기능)
@@ -19,10 +16,6 @@
 - 간단한 기술 스택
 - 프로젝트 목록 및 상세 설명
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* Fork the repo
 
 ## Bugs and Issues
 
