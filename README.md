@@ -47,9 +47,9 @@
 - 사용 테마 : Start Bootstrap
 
 ## 홈페이지 주소
-thstoqhahnu.github.io
-https://thstoqhahnu.github.io/
-https://github.com/thstoqhahnu/thstoqhahnu.github.io.git
+- thstoqhahnu.github.io
+- https://thstoqhahnu.github.io/
+- https://github.com/thstoqhahnu/thstoqhahnu.github.io.git
 
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
