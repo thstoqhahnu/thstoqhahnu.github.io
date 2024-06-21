@@ -300,12 +300,12 @@ footer h3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column; 
     text-align: center; 
 }
 
 .footer-col {
     margin-bottom: 50px;
+      flex: 1; /* 각 컬럼이 동일한 공간을 차지하도록 설정 */
 }
 
 footer .footer-below {
@@ -315,7 +315,7 @@ footer .footer-below {
 .btn-outline {
   color: white;
   font-size: 20px;
-    border: solid 2px white;
+  border: solid 2px white;
   background: transparent;
   transition: all 0.3s ease-in-out;
   margin-top: 15px;
